@@ -1,0 +1,24 @@
+.navbar-top-margin {
+  margin-top: 50px;
+}
+
+.margin-around {
+  margin: 10px;
+}
+
+.bg-blue {
+  background: #42c2f5;
+}
+
+.bg-white {
+  background: white;
+}
+
+.tabs-panel-no-height div {
+  height: 0px;
+  padding: 0px;
+}
+
+.detail-links {
+  background: white;
+}
